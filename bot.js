@@ -1,5 +1,4 @@
 require('dotenv').config();
-require("./handlers/keepAlive")();
 const config = require('./botconfig/config.json');
 const ee = require('./botconfig/embed.json');
 const {
