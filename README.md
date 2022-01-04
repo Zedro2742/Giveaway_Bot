@@ -1,7 +1,7 @@
 # Giveaway_Bot
 
 ## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/8fYUFxMtAq)
-> 💪 **Host on Repit:** [**Comming Soon**](https://replit.com/@MadwinMp4/Milanio-Development-Handler)
+> 💪 **Host on Repit:** [**Repl.it Fork**](https://replit.com/@Zedro2742/Giveaway-Bot)
 
 ## Installation | How to use the Handler
 
