@@ -1,6 +1,6 @@
 # Giveaway_Bot
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/8fYUFxMtAq)
+## [**DISCORD SUPPORT SERVER INVITE**](https://dsc.gg/milanio.dev)
 > 💪 **Host on Repit:** [**Repl.it Fork**](https://replit.com/@Zedro2742/Giveaway-Bot)
 
 ## Installation | How to use the Handler
@@ -17,8 +17,8 @@
   
 ***
 
-## [Discord Server 😎](https://discord.gg/8fYUFxMtAq) | [Website](https://www.fridaybot.ml)
-<a href="https://discord.gg/8fYUFxMtAq"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
+## [Discord Server 😎](https://dsc.gg/milanio.dev) | [Website](https://www.fridaybot.ml)
+<a href="https://dsc.gg/milanio.dev"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
 
 ***
 
